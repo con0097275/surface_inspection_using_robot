@@ -8,6 +8,6 @@ this is my project about robot detect fault surface
 - server: Adafruit, api google cloud, mongodb cloud
 
 DEMO:
-![app demo](demo app part1.mp4)
-![app demo 2](demo app part 2.mp4)
-![machine learning demo](demo machine learning.mp4)
+![app demo](demo_app_part1.mp4)
+![app demo 2](demo_app_part2.mp4)
+![machine learning demo](demo_machine_learning.mp4)
