@@ -6,3 +6,8 @@ this is my project about robot detect fault surface
 - APP: java code
 - Gateway: Python code
 - server: Adafruit, api google cloud, mongodb cloud
+
+DEMO:
+![app demo]("demo app part1.mp4")
+![app demo 2]("demo app part 2.mp4")
+![machine learning demo]("demo machine learning.mp4")
