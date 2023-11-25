@@ -17,7 +17,6 @@ this is my project about robot detect fault surface
     for segmentation. Semi-supervised learning used the method of recovering data intact with the model is 
     ResnetCAE and then find the anomaly detection threshold.
     
-    Keys:  VGG16, InceptionV3, Resnet50, UnetVGG16, UnetResnet
     
     - Api: api is programmed in python language and uploaded to google cloud. 
     Diagnostic history data saved to Mongodb database.  
@@ -28,7 +27,7 @@ this is my project about robot detect fault surface
 
 
 ## Skills:
-- Machine learing: Type detection, anomaly segmentation
+- Machine learing: Type detection, anomaly segmentation **(VGG16, InceptionV3, Resnet50, UnetVGG16, UnetResnet)**
 - APP: java code
 - Gateway: Python code
 - server: Adafruit, api google cloud, mongodb cloud
