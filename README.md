@@ -26,3 +26,7 @@ I used two methods: semi-supervised learning and supervised learning. Supervised
 ![app demo part2](demo_app_part2.mp4)
 ![machine learning demo](demo_machine_learning.mp4)
 <video src="[https://user-images.githubusercontent.com/aaa.mp4](https://drive.google.com/file/d/1ECRe7Chom5nmzTFUQLVTk-bYeOn25ufL/view?fbclid=IwAR2KAvDHnICtF8WUmtq9JPnaUBbSuJt8P9VtsFLdnxtEuGtJfUAX_MRZ4qU)"></video>
+
+
+
+[demo App part1](https://www.youtube.com/watch?v=tLfodW-TJgo)
