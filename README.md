@@ -4,12 +4,12 @@
 this is my project about robot detect fault surface
 
 ## Project Goals
-    APP: The application is programmed in Java and has functions such as viewing the history of surface defects, controlling iot devices, statistics of surface defects, taking pictures and diagnostic images. 
-    Machine learning: The machine learning part solves two main tasks of detecting surface defects; abnormal data detection and fault area segmentation. In detecting surface defects part, i used pretrained-model VGG16, InceptionV3, Resnet50 combined with CNN classifer. In abnormal data detection and fault area segmentation,
-I used two methods: semi-supervised learning and supervised learning. Supervised learning used gabor filter method to detect abnormal data and  UnetVGG16, UnetResnet served for segmentation. Semi-supervised learning used the method of recovering data intact with the model is ResnetCAE and then find the anomaly detection threshold.
-    Api: api is programmed in python language and uploaded to google cloud.
-    Diagnostic history data saved to Mongodb database.
-    Gateway: gateway is programmed in python allowing connection to device and iot server (Adafruit)
+    APP: The application is programmed in Java and has functions such as viewing the history of surface defects, controlling iot devices, statistics of surface defects, taking pictures and diagnostic images. <br />
+    Machine learning: The machine learning part solves two main tasks of detecting surface defects; abnormal data detection and fault area segmentation. In detecting surface defects part, i used pretrained-model VGG16, InceptionV3, Resnet50 combined with CNN classifer. In abnormal data detection and fault area segmentation, <br />
+I used two methods: semi-supervised learning and supervised learning. Supervised learning used gabor filter method to detect abnormal data and  UnetVGG16, UnetResnet served for segmentation. Semi-supervised learning used the method of recovering data intact with the model is ResnetCAE and then find the anomaly detection threshold. <br />
+    Api: api is programmed in python language and uploaded to google cloud. <br />
+    Diagnostic history data saved to Mongodb database.  <br />
+    Gateway: gateway is programmed in python allowing connection to device and iot server (Adafruit)  <br />
 
 ## Skills:
 - Machine learing: Type detection, anomaly segmentation
