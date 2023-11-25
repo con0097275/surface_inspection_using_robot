@@ -22,7 +22,7 @@ I used two methods: semi-supervised learning and supervised learning. Supervised
 <img src="architecture.png">
 
 ## VIDEO DEMO:
-[App demo part1](https://drive.google.com/file/d/1ht0nrp8S0C03m8fB0qoxKBsNJjI1zblz/view?usp=sharing)
-[App demo part2](https://drive.google.com/file/d/1q8-6nw2_a3XFLuBZorohhxvS0G4NeGmu/view?usp=sharing)
-[machine learning demo](https://drive.google.com/file/d/1xHsPtSe-SR2vd8JMXqIQzKAyNU4O8YEo/view?usp=sharing)
-[Robot Demo](https://drive.google.com/file/d/1ECRe7Chom5nmzTFUQLVTk-bYeOn25ufL/view?fbclid=IwAR2KAvDHnICtF8WUmtq9JPnaUBbSuJt8P9VtsFLdnxtEuGtJfUAX_MRZ4qU)
+[App demo part1](https://drive.google.com/file/d/1ht0nrp8S0C03m8fB0qoxKBsNJjI1zblz/view?usp=sharing) <br />
+[App demo part2](https://drive.google.com/file/d/1q8-6nw2_a3XFLuBZorohhxvS0G4NeGmu/view?usp=sharing) <br />
+[machine learning demo](https://drive.google.com/file/d/1xHsPtSe-SR2vd8JMXqIQzKAyNU4O8YEo/view?usp=sharing) <br />
+[Robot Demo](https://drive.google.com/file/d/1ECRe7Chom5nmzTFUQLVTk-bYeOn25ufL/view?fbclid=IwAR2KAvDHnICtF8WUmtq9JPnaUBbSuJt8P9VtsFLdnxtEuGtJfUAX_MRZ4qU) <br />
