@@ -19,6 +19,7 @@ I used two methods: semi-supervised learning and supervised learning. Supervised
 
 
 ## Architecture Diagram
+<img src="architecture.png">
 
 ## VIDEO DEMO:
 ![app demo part1](demo_app_part1.mp4)
