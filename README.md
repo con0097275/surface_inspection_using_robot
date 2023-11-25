@@ -1,7 +1,7 @@
 # surface_inspection_using_robot
 
 ## Overview
-this is my project about robot detect fault surface
+This is my project about robot detect fault surface
 
 ## Project Goals
     - APP: The application is programmed in Java and has functions such as viewing the history 
