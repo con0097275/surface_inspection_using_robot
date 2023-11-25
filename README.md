@@ -12,7 +12,7 @@ I used two methods: semi-supervised learning and supervised learning. Supervised
     Gateway: gateway is programmed in python allowing connection to device and iot server (Adafruit)
 
 ## Skills:
-- Machine learing: Type detection, anamoly segmentation
+- Machine learing: Type detection, anomaly segmentation
 - APP: java code
 - Gateway: Python code
 - server: Adafruit, api google cloud, mongodb cloud
