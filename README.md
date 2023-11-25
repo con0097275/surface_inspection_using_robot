@@ -22,11 +22,7 @@ I used two methods: semi-supervised learning and supervised learning. Supervised
 <img src="architecture.png">
 
 ## VIDEO DEMO:
-![app demo part1](demo_app_part1.mp4)
-![app demo part2](demo_app_part2.mp4)
-![machine learning demo](demo_machine_learning.mp4)
-<video src="[https://user-images.githubusercontent.com/aaa.mp4](https://drive.google.com/file/d/1ECRe7Chom5nmzTFUQLVTk-bYeOn25ufL/view?fbclid=IwAR2KAvDHnICtF8WUmtq9JPnaUBbSuJt8P9VtsFLdnxtEuGtJfUAX_MRZ4qU)"></video>
-
-
-
-[demo App part1](https://www.youtube.com/watch?v=tLfodW-TJgo)
+[App demo part1](https://drive.google.com/file/d/1ht0nrp8S0C03m8fB0qoxKBsNJjI1zblz/view?usp=sharing)
+[App demo part2](https://drive.google.com/file/d/1q8-6nw2_a3XFLuBZorohhxvS0G4NeGmu/view?usp=sharing)
+[machine learning demo](https://drive.google.com/file/d/1xHsPtSe-SR2vd8JMXqIQzKAyNU4O8YEo/view?usp=sharing)
+[Robot Demo](https://drive.google.com/file/d/1ECRe7Chom5nmzTFUQLVTk-bYeOn25ufL/view?fbclid=IwAR2KAvDHnICtF8WUmtq9JPnaUBbSuJt8P9VtsFLdnxtEuGtJfUAX_MRZ4qU)
