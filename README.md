@@ -30,7 +30,7 @@ this is my project about robot detect fault surface
 - Machine learing: Type detection, anomaly segmentation **(VGG16, InceptionV3, Resnet50, UnetVGG16, UnetResnet)**
 - APP: java code
 - Gateway: Python code
-- server: Adafruit, api google cloud, mongodb cloud
+- server: **Adafruit, api google cloud, mongodb cloud**
 
 
 ## Architecture Diagram
