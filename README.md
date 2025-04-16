@@ -37,7 +37,7 @@ This is my project about robot detect fault surface **(For easy visualization, p
 <img src="architecture.png">
 
 ## VIDEO DEMO:
-[Robot Demo](https://drive.google.com/file/d/1ECRe7Chom5nmzTFUQLVTk-bYeOn25ufL/view?fbclid=IwAR2KAvDHnICtF8WUmtq9JPnaUBbSuJt8P9VtsFLdnxtEuGtJfUAX_MRZ4qU) <br />
+[Robot Demo](https://drive.google.com/file/d/1kPjydUnziIHNi6oJI3taUkwgNgGpp33w/view?usp=drive_link) <br />
 
 [AI demo](https://drive.google.com/file/d/1xHsPtSe-SR2vd8JMXqIQzKAyNU4O8YEo/view?usp=sharing) <br />
 [App demo part1](https://drive.google.com/file/d/1ht0nrp8S0C03m8fB0qoxKBsNJjI1zblz/view?usp=sharing) <br />
